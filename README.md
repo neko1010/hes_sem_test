@@ -1,2 +1,2 @@
-# hes_sem_test
-tasty HES code
+# Fall Seminar Git- Matt Williamson
+tasty HES code - also delicious
